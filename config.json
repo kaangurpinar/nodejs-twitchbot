@@ -1,0 +1,12 @@
+{
+    "PREFIX": "",
+    "TWITCH_USERNAME": "",
+    "TWITCH_PASSWORD": "",
+    "TWITCH_BROADCASTER_ID": "",
+    "TWITCH_CHANNELS": "",
+    "TWITCH_AUTHORIZATION": "",
+    "TWITCH_CLIENT_ID": "",
+    "TWITCH_CLIENT_SECRET": "",
+    "TWITCH_USER_ACCESS_TOKEN": "",
+    "REDIRECT_URL": ""
+}
